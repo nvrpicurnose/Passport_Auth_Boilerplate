@@ -1,0 +1,2 @@
+// to start the mongo instance
+$ mongod --dbpath "C:\Users\Kangze Huang\Desktop\4_UdemyReact - Server Auth\data\db"
